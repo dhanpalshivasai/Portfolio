@@ -219,7 +219,7 @@ function App() {
       {/* 4. Your Bio Paragraph */}
       <p className="text-xl text-gray-600 mb-10 max-w-4xl mx-auto leading-relaxed">
         Strong foundation in Java and modern web technologies including JavaScript, HTML, and CSS. 
-        Skilled in creating full-stack applications with React.js and Spring Boot. Combines a high-achieving 
+        Skilled in creating full-stack applications with React.js, Spring Boot and GenAI applications using LangChain, Python. Combines a high-achieving 
         academic record in AI & ML with practical project experience in building, testing, and deploying 
         responsive, data-driven websites.
       </p>
